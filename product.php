@@ -45,7 +45,7 @@ session_start();
 <!DOCTYPE html>
 <html>
 <head>
-<title>BlackMart Shopping</title>
+<title>WormHoldings</title>
 <link href="themes/1/js-image-slider.css" rel="stylesheet" type="text/css" />
  <script src="themes/1/js-image-slider.js" type="text/javascript"></script>
  <link href="generic.css" rel="stylesheet" type="text/css" />
