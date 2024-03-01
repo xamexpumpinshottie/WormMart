@@ -1,8 +1,8 @@
 <?php
-$mysql_hostname = "localhost";
-$mysql_user ="root";
-$mysql_password ="";
-$mysql_database ="phpgurukulshopping";
+$mysql_hostname = "aws.connect.psdb.cloud";
+$mysql_user ="uvdibe2iw8vw7q0fjt46";
+$mysql_password ="agentj1995";
+$mysql_database ="products";
 $bd = mysql_connect($mysql_hostname, $mysql_user, $mysql_password) or die("oops !Could not connect database");
 mysql_select_db($mysql_database, $bd) or die("opps! database not connected");
 
